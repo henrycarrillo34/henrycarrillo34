@@ -9,7 +9,15 @@
 <a href="https://www.linkedin.com/in/henrycarrillosoto/?locale=en_US" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div> 
+
+<li>
+<a href="mailto:henry.carrillosoto@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  henry.carrillosoto-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+  
 </h3>
 <p align="left">
 </p>
