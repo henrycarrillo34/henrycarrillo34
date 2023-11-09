@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left"> 🤝 Connect with me:
+## <picture><img src = "https://github.com/henrycarrillo34/henrycarrillo34/blob/main/Images/handshake.gif?raw=true" width = 50px></picture> Connect with me
 <div align="center">
 <a href="https://www.linkedin.com/in/henrycarrillosoto/?locale=en_US" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
