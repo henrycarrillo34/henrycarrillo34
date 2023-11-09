@@ -10,10 +10,8 @@
 <br><br>
 
 - :school: I am a `Bachelor’s Degree` in `Electronic and Computer Engineering` at [University of Technology and Engineering - UTEC](https://utec.edu.pe/en).
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: My relevant coursework were `Embedded systems interconnected`, `Mobile communications`, `Mobile Networks`, `Cognitive computing`, `Data structures and algorithms`, `Machine learning`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
