@@ -25,6 +25,9 @@
 <a href="mailto:henry.carrillosoto@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  henry.carrillosoto-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+<a href="https://dev.to/henrycarrillo34" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 </div> 
 
 
