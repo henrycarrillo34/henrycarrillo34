@@ -61,20 +61,83 @@
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-  ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)
+  ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 <br>   
 
 
-- **IDEs/Editors**:
+- **IDEs/Editors/Platforms**:
 
   ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
+  ![Arduino_IDE](https://img.shields.io/badge/-Arduino_IDE-05122A?style=flat&logo=arduino)
+  ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)
+  ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=RStudio)
+  ![STM32 Cube IDE](https://img.shields.io/badge/-STM32_Cube_IDE-05122A?style=flat&logo=STM32_Cube_IDE)
+  ![Espressif](https://img.shields.io/badge/-Espressif-05122A?style=flat&logo=espressif)
+  
+  
+<br>
+
+- **Office**:
+
+  ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)
+  ![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=Overleaf)
+  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)
+  ![Prezi](https://img.shields.io/badge/-Prezi-05122A?style=flat&logo=Prezi)
+  ![Microsoft_Visio](https://img.shields.io/badge/-Microsoft_Visio-05122A?style=flat&logo=microsoft-visio)
+  ![Microsoft_OneNote](https://img.shields.io/badge/-Microsoft_OneNote-05122A?style=flat&logo=microsoft-onenote)
+  ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)
 
 <br>
 
-- **IDEs/Editors**:
+
+- **ML/DL**:
+  
+  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)
+  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)
+
+<br>
+
+
+- **Microcontrollers/processor**:
+  
+  ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)
+  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)
+  ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=ESP32)
+  ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=STM32)
+<br>
+
+- **Terminal**:
+  
+  ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)
+  ![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)
+  ![Hyper](https://img.shields.io/badge/-Hyper-05122A?style=flat&logo=Hyper)
+  ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)
+  ![windows%20terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=flat&logo=Windows%20Terminal)
+  
+<br>
+
+- **OS**:
+  
+  ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
+  ![kali-linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kali-linux)
+  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
+  ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-05122A?style=flat&logo=FreeRTOS)
+  
+<br>
+
+- **Cloud Servers**:
+  
+  ![Amazon_AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws)
+  ![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=google-cloud)
+  ![IBM_Cloud](https://img.shields.io/badge/-IBM_Cloud-05122A?style=flat&logo=IBM_Cloud)
+  
+<br>
 
 
 **Some of the technologies I have worked with**
@@ -117,7 +180,6 @@
 
 </p>
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=henrycarrillo34&color=0e75b6&style=flat" alt="andermendoza" />
