@@ -176,7 +176,8 @@
 
 <summary>Show Stats</summary>
 
-![Metrics](https://metrics.lecoq.io/henrycarrillo34?template=classic&base.skip=true&lines=1&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=true&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=%20&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=America)
+[![Tap to Reload](https://metrics.lecoq.io/henrycarrillo34?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/henrycarrillo34)
+
 
 
 
