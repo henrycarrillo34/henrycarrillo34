@@ -176,9 +176,7 @@
 
 <summary>Show Stats</summary>
 
-[![Tap to Reload](https://metrics.lecoq.io/henrycarrillo34?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/henrycarrillo34)
-
-
+![Metrics](https://metrics.lecoq.io/henrycarrillo34?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FLima)
 
 
 <!-- VISTAS DEL PERFIL -->
