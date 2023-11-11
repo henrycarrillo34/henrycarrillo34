@@ -51,26 +51,39 @@
 
 
 ## <picture> <img src = "https://github.com/henrycarrillo34/henrycarrillo34/blob/main/Images/skills.gif?raw=true" width = 50px>  </picture> Languages and Tools
-<br>
+ 
 
 <p align="center">
-  
-- **Languages**:
-  
+
+
+<table align="center">
+    <tr>
+      <td valign="top" width="33%"">
+        
+  #### Languages
+  <div align="center"> 
+    
   ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-  ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+  ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+  ![MySQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)    
+      <br>
+  </div>
+      </td>
 
-<br>   
-
-
-- **IDEs/Editors/Platforms**:
-
-  ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code)
+  <td align="center" width="96">- **Microcontrollers/processor**:
+  
+  ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)
+  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)
+  ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=ESP32)
+  ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=STM32)
+<br>
+    </td>
+  <td ROWSPAN=2 align="center" width="96">- **IDEs/Editors/Platforms**:
+    
+  ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
   ![Arduino_IDE](https://img.shields.io/badge/-Arduino_IDE-05122A?style=flat&logo=arduino)
@@ -79,10 +92,46 @@
   ![STM32 Cube IDE](https://img.shields.io/badge/-STM32_Cube_IDE-05122A?style=flat&logo=STM32_Cube_IDE)
   ![Espressif](https://img.shields.io/badge/-Espressif-05122A?style=flat&logo=espressif)
   ![EAGLE](https://img.shields.io/badge/-EAGLE-05122A?style=flat&logo=EAGLE)
-  
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 <br>
+    </td>
+  
 
-- **Office**:
+    
+ <td align="center" width="96">- **ML/DL**:
+
+  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)
+  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)
+
+<br>
+    </td>
+
+ <td align="center" width="96"> - **Cloud Servers**:
+  
+  ![Amazon_AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws)
+  ![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=google-cloud)
+  ![IBM_Cloud](https://img.shields.io/badge/-IBM_Cloud-05122A?style=flat&logo=IBM_Cloud)
+ 
+
+<br>
+    </td>
+    </tr>
+
+    
+<tr>
+ <td align="center" width="96">- **Terminal**::
+
+  ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)
+  ![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)
+  ![Hyper](https://img.shields.io/badge/-Hyper-05122A?style=flat&logo=Hyper)
+  ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)
+  ![windows%20terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=flat&logo=Windows%20Terminal)
+  <br>
+    </td>
+
+ <td align="center" width="96"> - **Office**:
 
   ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)
   ![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=Overleaf)
@@ -91,65 +140,37 @@
   ![Microsoft_Visio](https://img.shields.io/badge/-Microsoft_Visio-05122A?style=flat&logo=microsoft-visio)
   ![Microsoft_OneNote](https://img.shields.io/badge/-Microsoft_OneNote-05122A?style=flat&logo=microsoft-onenote)
   ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)
-  ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)
-  
-<br>
+   
+  <br>
+    </td>
 
+  <td align="center" width="96"> - **Cybersecurity**:
 
-- **ML/DL**:
-  
-  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)
-  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)
+   ![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-05122A?style=flat)
+  ![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-05122A?style=flat)
+  ![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-05122A?style=flat)
+  ![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-05122A?style=flat)
+  ![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-05122A?style=flat)
+   
+  <br>
+    </td>
 
-<br>
-
-
-- **Microcontrollers/processor**:
-  
-  ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)
-  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)
-  ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=ESP32)
-  ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=STM32)
-<br>
-
-- **Terminal**:
-  
-  ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)
-  ![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)
-  ![Hyper](https://img.shields.io/badge/-Hyper-05122A?style=flat&logo=Hyper)
-  ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)
-  ![windows%20terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=flat&logo=Windows%20Terminal)
-  
-<br>
-
-- **OS**:
+    
+  <td align="center" width="96">  - **OS**:
   
   ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
   ![kali-linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kali-linux)
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
   ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-05122A?style=flat&logo=FreeRTOS)
+
   
-<br>
+   
+  <br>
+    </td>  
+    </tr>
+</table>
+   
 
-- **Cloud Servers**:
-  
-  ![Amazon_AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws)
-  ![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=google-cloud)
-  ![IBM_Cloud](https://img.shields.io/badge/-IBM_Cloud-05122A?style=flat&logo=IBM_Cloud)
-  
-<br>
-
-
-- **Cybersecurity projects**:
-
-  ![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-05122A?style=flat)
-  ![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-05122A?style=flat)
-  ![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-05122A?style=flat)
-  ![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-05122A?style=flat)
-  ![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-05122A?style=flat)
-
-<br>
 
 
 
