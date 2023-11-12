@@ -32,14 +32,10 @@
 
 
 
-
-  
 </h3>
 <p align="left">
 </p>
 
-
-&emsp;
 
 ## <picture> <img src = "https://github.com/henrycarrillo34/henrycarrillo34/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="center">
@@ -47,7 +43,7 @@
 </p>
 
 
- ![](https://leetcard.jacoblin.cool/CirezD)
+![](https://leetcard.jacoblin.cool/CirezD#center)
 
 
 ## <picture> <img src = "https://github.com/henrycarrillo34/henrycarrillo34/blob/main/Images/skills.gif?raw=true" width = 50px>  </picture> Languages and Tools
@@ -58,11 +54,13 @@
 
 <table align="center">
     <tr>
-      <td valign="top" width="33%"">
+      <td valign="top" width="20%"">
         
-  #### Languages
+
+<div align="center"> <b> Languages </b></div>
+<br>
   <div align="center"> 
-    
+
   ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -73,15 +71,24 @@
   </div>
       </td>
 
-  <td align="center" width="96">- **Microcontrollers/processor**:
+ <td valign="top" width="20%"">
+    
+<div align="center"> <b> Microcontrollers/processors </b></div>
+<br>
+  <div align="center"> 
+    
   
-  ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)
-  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)
+  ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi&logoColor=c51a4a)
+  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&logoColor=008080)
   ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=ESP32)
   ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=STM32)
 <br>
     </td>
-  <td ROWSPAN=2 align="center" width="96">- **IDEs/Editors/Platforms**:
+
+  <td ROWSPAN=2 align="center" width="20%">
+    <div align="center"> <b> IDEs/Editors/Platforms </b></div>
+<br>
+  <div align="center"> 
     
   ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
@@ -99,7 +106,11 @@
   
 
     
- <td align="center" width="96">- **ML/DL**:
+ <td align="center" width="20%">
+   <div align="center"> <b> ML/DL </b></div>
+<br>
+  <div align="center"> 
+    
 
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
@@ -108,8 +119,11 @@
 <br>
     </td>
 
- <td align="center" width="96"> - **Cloud Servers**:
-  
+ <td align="center" width="20%">
+   <div align="center"> <b> Cloud Servers </b></div>
+<br>
+  <div align="center"> 
+   
   ![Amazon_AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws)
   ![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=google-cloud)
   ![IBM_Cloud](https://img.shields.io/badge/-IBM_Cloud-05122A?style=flat&logo=IBM_Cloud)
@@ -121,7 +135,10 @@
 
     
 <tr>
- <td align="center" width="96">- **Terminal**::
+ <td align="center" width="20%">
+   <div align="center"> <b> Terminal </b></div>
+<br>
+  <div align="center"> 
 
   ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)
   ![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)
@@ -131,21 +148,27 @@
   <br>
     </td>
 
- <td align="center" width="96"> - **Office**:
-
+ <td align="center" width="20%"> 
+   <div align="center"> <b> Office </b></div>
+<br>
+  <div align="center"> 
+   
   ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)
   ![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=Overleaf)
-  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)
+  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&logoColor=0088cc)
   ![Prezi](https://img.shields.io/badge/-Prezi-05122A?style=flat&logo=Prezi)
-  ![Microsoft_Visio](https://img.shields.io/badge/-Microsoft_Visio-05122A?style=flat&logo=microsoft-visio)
-  ![Microsoft_OneNote](https://img.shields.io/badge/-Microsoft_OneNote-05122A?style=flat&logo=microsoft-onenote)
-  ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)
+  ![Microsoft_Visio](https://img.shields.io/badge/-Microsoft_Visio-05122A?style=flat&logo=microsoft-visio&logoColor=0044cc)
+  ![Microsoft_OneNote](https://img.shields.io/badge/-Microsoft_OneNote-05122A?style=flat&logo=microsoft-onenote&logoColor=AE4BD5)
+  ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro&logoColor=FFD02F)
    
   <br>
     </td>
 
-  <td align="center" width="96"> - **Cybersecurity**:
-
+  <td align="center" width="20%">
+   <div align="center"> <b> Cybersecurity </b></div>
+<br>
+  <div align="center"> 
+    
    ![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-05122A?style=flat)
   ![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-05122A?style=flat)
   ![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-05122A?style=flat)
@@ -155,16 +178,17 @@
   <br>
     </td>
 
+  <td align="center" width="20%">  
+       <div align="center"> <b> OS </b></div>
+<br>
+  <div align="center"> 
     
-  <td align="center" width="96">  - **OS**:
-  
   ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
   ![kali-linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kali-linux)
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
   ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-05122A?style=flat&logo=FreeRTOS)
 
   
-   
   <br>
     </td>  
     </tr>
@@ -177,8 +201,12 @@
 ### Show Stats
 
 ![Metrics](https://metrics.lecoq.io/henrycarrillo34?template=classic&base.header=0&languages=1&lines=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=Makefile%2CCmake%2CHTML&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=America%2FLima&config.twemoji=true)
+  
+ 
+  
 
 
+ 
 
 
 
