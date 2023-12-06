@@ -210,7 +210,18 @@ uses: user/metrics@master
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
  
   
-
+- uses: lowlighter/metrics@latest
+  with:
+    base: header
+    extras_css: |
+      h2 {
+        color: red;
+      }
+- uses: lowlighter/metrics@latest
+  with:
+    base: header
+    extras_js: |
+      document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
 
  
 
